@@ -2,5 +2,5 @@ function ReverseString(str) {
    return str.split('').reverse().join('')
 }
 
-console.log(ReverseString('hello there!');
+console.log(ReverseString('hello there!'));
             
